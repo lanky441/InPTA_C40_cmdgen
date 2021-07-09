@@ -1,5 +1,5 @@
 # InPTA_C40_cmdgen
-Generates setup, observation plan, and command files for InPTA multi-band pulsar observation with uGMRT
+Generates setup, observation plan, and command files for Cycle#40 InPTA multi-band pulsar observation with uGMRT
 
 ## Usage
 python3 gencmdfile_v3_C40.py -p pulsars_Sx.in [-i] myinput.in
