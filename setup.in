@@ -1,0 +1,2 @@
+##Project_Name	Source_file		Ref_ant_subarr4    Ref_ant_subarr3	Nchan_obs	Nchan_runsub	Nchan_wr-cd		Nint_pa        Nint_wr-cd	Nbits_subarr4	Nbits_subarr3	PFB
+40_012			src40012.list	C05					C09				1024			128				128			8               4				16				16			OFF
